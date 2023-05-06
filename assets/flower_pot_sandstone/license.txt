@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flower Pot (sandstone)
+* source:	https://sketchfab.com/3d-models/flower-pot-sandstone-88f5bb01da1d441d8d2a4e8715473f3b
+* author:	Anthony (https://sketchfab.com/AnthonyJack)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flower Pot (sandstone)" (https://sketchfab.com/3d-models/flower-pot-sandstone-88f5bb01da1d441d8d2a4e8715473f3b) by Anthony (https://sketchfab.com/AnthonyJack) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
